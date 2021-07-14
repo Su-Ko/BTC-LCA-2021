@@ -11,7 +11,7 @@ These are needed to run the scripts contained in this repository, for example if
 
 The repository includes
 
-BTC_Att_LCA.ipynb Python script to reproduce results of the LCA using the brightway2 LCA software. Imports the inventory in, performs LCA calculations and exports LCIA results.
+BTC_2019-mid-2021.ipynb Python script to reproduce results of the LCA using the brightway2 LCA software. Imports the inventory in, performs LCA calculations and exports LCIA results.
 
 lci_to_bw2.py A little python script to import inventory tables in .csv directly into brightway2.
 
