@@ -1,0 +1,18 @@
+Description
+
+Köhler S, Sustainable Blockchain Technologies - An Assessment of Social and Environmental Impacts of Blockchain-based Technologies
+
+The supplementary materials to the article include the raw data:
+
+inventory tables: 
+2019.csv, 2020.csv, 2021.csv
+
+These are needed to run the scripts contained in this repository, for example if you want to reproduce the results.
+
+The repository includes
+
+BTC_Att_LCA.ipynb Python script to reproduce results of the LCA using the brightway2 LCA software. Imports the inventory in, performs LCA calculations and exports LCIA results.
+
+lci_to_bw2.py A little python script to import inventory tables in .csv directly into brightway2.
+
+Please get in touch if you find any mistake or problem in running these scripts.
